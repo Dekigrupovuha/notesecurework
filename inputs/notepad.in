@@ -1,0 +1,11 @@
+// The program input for notepad/src/main.leo
+[add_note]
+new_note: Note = Note { data0: 1231234u128,data1: 12312313u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128  };
+note_id: u128 = 1u128;
+
+[remove_note]
+note_id: u128 = 1u128;
+
+[edit_note]
+new_note: Note = Note { data0: 1234u128,data1: 12312313u128, data2: 65312313u128, data3: 12312313u128, data4: 1231234u128, data5: 12312313u128, data6: 0u128, data7: 0u128  };
+note_id: u128 = 1u128;

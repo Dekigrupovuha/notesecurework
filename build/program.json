@@ -1,0 +1,10 @@
+{
+    "program": "notepad.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpAv88BvpZL4LobDHGui4wUnBqQncHBc5YU5Qweu9e4x5Y",
+        "address": "aleo13wp8ut6vuagf5c8l3mv22n66rg4ahdj0mls5gh6t2hqm3l20m5gs7c0qc2"
+    },
+    "license": "MIT"
+}
